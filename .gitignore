@@ -1,0 +1,14 @@
+# Ignore everything
+*
+
+wp-content/themes/kynsisalonki/.idea
+
+# But not these files...
+!.gitignore
+!.gitignore
+!wp-content
+!wp-content/themes
+!wp-content/themes/kynsisalonki
+!wp-content/themes/kynsisalonki/*
+!wp-content/themes/kynsisalonki/*/*
+wp-content/themes/kynsisalonki/.idea/
