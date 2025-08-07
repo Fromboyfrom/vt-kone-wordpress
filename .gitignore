@@ -12,3 +12,5 @@ wp-content/themes/kynsisalonki/.idea
 !wp-content/themes/kynsisalonki/*
 !wp-content/themes/kynsisalonki/*/*
 wp-content/themes/kynsisalonki/.idea/
+!wp-content/plugins
+!wp-content/plugins/fs-cards

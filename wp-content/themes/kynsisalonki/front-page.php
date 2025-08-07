@@ -29,6 +29,8 @@
     <div class="fs-card-white">Tänne tulee koneet ja laitteet</div>
 </div>
 
+<?php dynamic_sidebar( 'pienkoneet-ja-laitteet' );?>
+
 
 <div id="contact-map" class="flex-column d-flex justify-content-center jobs w-100">
     <iframe width="100%" height="500" src="https://maps.google.com/maps?q=VT%20Kone&t=&z=15&ie=UTF8&iwloc=&output=embed"></iframe>
